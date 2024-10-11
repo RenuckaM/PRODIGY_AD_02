@@ -1,10 +1,10 @@
 # PRODIGY_AD_02 
 
-# Listify - TODO List App and Demo [Tap here!](https://todolist-flutter.netlify.app/)
+# Listify - TODO List App
 
 A Flutter-based Todo List application that allows users to manage their tasks efficiently. Users can add, update, delete tasks, and set priorities with date and time settings. The app features a user-friendly interface and utilizes the `intl` package for formatting dates and times.
 
-## Screenshots
+## Screenshots and Demo [Tap here!](https://todolist-flutter.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/6fe1d754-a4bf-47c9-a4ba-8db844ab879c)
 
