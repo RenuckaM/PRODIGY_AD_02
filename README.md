@@ -6,7 +6,8 @@ A Flutter-based Todo List application that allows users to manage their tasks ef
 
 ## Screenshots
 
-*Add screenshots of your app here to showcase the UI and features.*
+![image](https://github.com/user-attachments/assets/6fe1d754-a4bf-47c9-a4ba-8db844ab879c)
+
 
 ## Features
 
